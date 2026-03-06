@@ -1,10 +1,6 @@
-## Hi there 👋
-
-# we are fireHouse Labs
+# Hi there 👋 we are fireHouse Labs
 
 **We design, build, and manage custom software for emergency services and growing businesses.**
-
----
 
 ## What We Do
 
@@ -18,8 +14,6 @@ We build tailored digital solutions for organisations that can't afford for soft
 - **Strategy & Analysis** — workflow mapping, bottleneck identification, and digital transformation roadmaps
 - **24/7 Support** — round-the-clock monitoring and proactive maintenance for mission-critical systems
 
----
-
 ## Who We Build For
 
 **Government & Emergency Services**
@@ -27,8 +21,6 @@ Platforms for incident management, asset tracking, compliance, crew coordination
 
 **Growing Businesses**
 Internal CRMs, dashboards, workflow automation, and data pipelines for teams who've hit the ceiling of generic SaaS tools.
-
----
 
 ## Our Products
 
@@ -41,7 +33,6 @@ Internal CRMs, dashboards, workflow automation, and data pipelines for teams who
 | **BA Control Board** | Real-time breathing apparatus safety monitoring for live fireground operations |
 | **TimePals** | Visual scheduling app for children with autism and developmental needs |
 
----
 
 ## Tech We Work With
 
@@ -49,13 +40,10 @@ Internal CRMs, dashboards, workflow automation, and data pipelines for teams who
 
 Cloud-hosted SaaS or on-premise — we deploy where you need it.
 
----
-
 ## Built From Experience
 
 Our founders and team include emergency services volunteers and people with lived experience in the domains we build for. We don't just ship features — we understand the operational context behind every decision.
 
----
 
 ## Get In Touch
 
